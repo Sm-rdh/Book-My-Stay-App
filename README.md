@@ -140,7 +140,7 @@ This project helps in understanding:
 
 ## 👨‍💻 Author
 
-**Samridh K**
+**Samridh Kadekar**
 
 ---
 
